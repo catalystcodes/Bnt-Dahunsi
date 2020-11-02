@@ -1,0 +1,68 @@
+.head1 {
+    margin: 10rem auto;
+    height: 1.5rem;
+    width: 16rem;
+    border-radius: 10rem;
+    border: 0.15rem #aaaaaa solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.line1 {
+    height: 10rem;
+    width: 0.17rem;
+    background-color: #aaaaaa;
+    margin-left: 30rem;
+    position: absolute;
+    top: 11.7rem;
+    left: 4.92rem;
+}
+
+.head2 {
+    position: absolute;
+    left: 35.9rem;
+    top: 12.3rem;
+    line-height: normal;
+}
+
+h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 900;
+}
+
+.p1 {
+    margin-left: -0.6rem;
+}
+
+.p3 {
+    margin-left: 2rem;
+}
+
+.head3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 35.9rem;
+    top: 18.1rem;
+}
+
+.p4 {
+    position: absolute;
+    left: 35.9rem;
+    top: 21.1rem;
+}
+
+.h1 {
+    font-size: 2rem;
+}
+
+img {
+    height: 5rem;
+    width: 5rem;
+    position: absolute;
+    left: 15rem;
+    top: 6.7rem;
+}
