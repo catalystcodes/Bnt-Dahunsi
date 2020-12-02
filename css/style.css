@@ -14,7 +14,7 @@
 .line1 {
     height: 11rem;
     width: 0.17rem;
-    background-color: #aaaaaa;
+    border: 0.15rem #aaaaaa solid;
     margin-left: 30rem;
     position: absolute;
     top: 11.7rem;
@@ -72,7 +72,8 @@ img {
 .line2 {
     height: 11rem;
     width: 0.1rem;
-    background-color: #aaaaaa;
+    border: 0.15rem #aaaaaa solid;
+    /* background-color: #aaaaaa; */
     position: absolute;
     left: 54rem;
     top: 11.8rem;
@@ -80,9 +81,9 @@ img {
 
 .line3 {
     height: 0.1rem;
-    width: 19.09rem;
-    background-color: #aaaaaa;
+    width: 19rem;
+    border: 0.15rem #aaaaaa solid;
     position: absolute;
-    left: 35rem;
+    left: 34.9rem;
     top: 22.7rem;
 }
