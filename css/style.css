@@ -35,7 +35,7 @@ h6 {
 }
 
 .p1 {
-    margin-left: -0.6rem;
+    margin-left: -0.4rem;
 }
 
 .p3 {
@@ -54,11 +54,12 @@ h6 {
 .p4 {
     position: absolute;
     left: 35.9rem;
-    top: 21.1rem;
+    top: 20.4rem;
 }
 
 .h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
 }
 
 img {
@@ -85,4 +86,14 @@ img {
     position: absolute;
     left: 34.9rem;
     top: 22.7rem;
+}
+
+i {
+    margin-left: 5rem;
+}
+
+.p5 {
+    position: absolute;
+    left: 41rem;
+    top: 21.5rem;
 }
